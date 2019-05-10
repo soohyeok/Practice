@@ -1,4 +1,4 @@
-#Practice Repo
+# Practice Repo
 
 #### Chore Door (*Practice with Javascript-DOM Basic interface*)
 - 3-Door Opening game
