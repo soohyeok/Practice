@@ -10,7 +10,7 @@ Please download the files and open the html;
 - *click on the image to be redirected to the interactive website*
 
 #### Description:
-- robot is standing behind one of the three doors;
+- robot is standing behind one of the three doors
 - open the door with the robot last to win
 
 #### Project Link:
