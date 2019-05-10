@@ -2,7 +2,7 @@
 
 # Lodash
 ## Practice with Basic Javascript
-### Guided by Codeacademy
+### Guided by [Codeacademy](http://ssqt.co/mQfdNdy)
 
 #### Description:
 - Recreating Lodash library as object methods with Javascript
