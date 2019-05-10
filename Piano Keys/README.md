@@ -1,7 +1,7 @@
 #### DOM EVENTS WITH JAVASCRIPT
 
 # Piano Keys
-## Practice with Javascript-DOM interface
+## Practice with Javascript-DOM interface: Events
 ### Codeacademy Content
 
 #### Interactive Website:
