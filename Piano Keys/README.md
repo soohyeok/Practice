@@ -2,8 +2,6 @@
 
 # Piano Keys
 ## Practice with Javascript-DOM interface: Events
-#### Project Guided by [Codeacademy](http://ssqt.co/mQfdNdy)
-
 
 #### Interactive Website:
 Please download the files and open the html;
