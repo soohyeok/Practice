@@ -1,8 +1,7 @@
 # Practice Repo
+- Repo made to store personal portfolio of projects guided by online resources
 
-#### Project Title
-- Description
-- [to Repo](https://github.com/soohyeok/Practice)
+## Projects:
 #### Lodash
 - *Practice with Basic Javascript*
 - Recreating Lodash library as object methods with Javascript
@@ -15,5 +14,9 @@
 - *Practice with Javascript-DOM interface: Events*
 - Piano interface with music(navigation with button)
 - [to Piano Keys](https://github.com/soohyeok/Practice/tree/master/Piano%20Keys)
+#### Project Title
+- Description
+- [to Repo](https://github.com/soohyeok/Practice)
 
-
+### Online Resources Used:
+- [Codeacademy](http://ssqt.co/mQfdNdy)
