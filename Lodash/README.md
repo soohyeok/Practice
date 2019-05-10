@@ -1,6 +1,6 @@
 #### RE-CREATING THE LODASH LIBRARY
 
-# Piano Keys
+# Lodash
 ## Practice with Javascript
 ### Codeacademy Content
 
