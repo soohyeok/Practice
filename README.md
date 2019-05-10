@@ -6,12 +6,14 @@
 - *Practice with Basic Javascript*
 - Recreating Lodash library as object methods with Javascript
 - [go to Lodash Repo](https://github.com/soohyeok/Practice/tree/master/Lodash)
-#### Chore Door (*https://github.com/soohyeok/Practice/tree/master/Chore%20Door*)
+#### Chore Door
 - *Practice with Javascript-DOM Basic interface*
 - 3-Door Opening game
-#### Piano Keys (*https://github.com/soohyeok/Practice/tree/master/Piano%20Keys*)
+- [go to Chore Door Repo](https://github.com/soohyeok/Practice/tree/master/Chore%20Door)
+#### Piano Keys
 - *Practice with Javascript-DOM interface: Events*
 - Piano interface with music(navigation with button)
+- [go to Piano Keys Repo](https://github.com/soohyeok/Practice/tree/master/Piano%20Keys)
 
 
 
