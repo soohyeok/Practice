@@ -1,7 +1,8 @@
 # Practice Repo
 
-
-
+#### Project Title
+- Description
+- [go to Repo](https://github.com/soohyeok/Practice)
 #### Lodash
 - *Practice with Basic Javascript*
 - Recreating Lodash library as object methods with Javascript
@@ -16,8 +17,3 @@
 - [go to Piano Keys Repo](https://github.com/soohyeok/Practice/tree/master/Piano%20Keys)
 
 
-
-### Format
-#### Project Title
-- Description
-- [go to Repo]()
