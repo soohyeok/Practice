@@ -14,9 +14,13 @@
 - *Practice with Javascript-DOM interface: Events*
 - Piano interface with music(navigation with button)
 - [to Piano Keys](https://github.com/soohyeok/Practice/tree/master/Piano%20Keys)
-#### Project Title
-- Description
-- [to Repo](https://github.com/soohyeok/Practice)
+
 
 ### Online Resources Used:
 - [Codeacademy](http://ssqt.co/mQfdNdy)
+
+<!---
+#### Project Title
+- Description
+- [to Repo]()
+-->
