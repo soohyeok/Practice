@@ -1,4 +1,5 @@
-#Project on Codeacademy: Chore Door
+# Project on Codeacademy:
+## Chore Door
 
 #### Interactive Website:
 [![choredoor](choredoor.png)](https://s3.amazonaws.com/codecademy-content/projects/chore-door/chore-door-final/index.html)
