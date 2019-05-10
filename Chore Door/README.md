@@ -1,4 +1,7 @@
+#### DOM EVENTS WITH JAVASCRIPT
+
 # Chore Door
+
 ### Codeacademy Content
 
 #### Interactive Website:
