@@ -1,7 +1,7 @@
 #### RE-CREATING THE LODASH LIBRARY
 
 # Lodash
-## Practice with Javascript
+## Practice with Basic Javascript
 ### Codeacademy Content
 
 #### Description:
