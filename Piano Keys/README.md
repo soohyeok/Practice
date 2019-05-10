@@ -5,6 +5,8 @@
 ### Codeacademy Content
 
 #### Interactive Website:
+Please download the files and open the html;
+
 [![pianokeys](pianokeys.png)]
 
 #### Project Link:
