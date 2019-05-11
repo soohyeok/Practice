@@ -15,7 +15,7 @@
 - Piano interface with music
 - [to Piano Keys](https://github.com/soohyeok/Practice/tree/master/Piano%20Keys)
 #### Musicon
-- *Javascript-DOM interface: Templating with Handlebars*
+- *Templating with Handlebars*
 - Instrument Store
 - [to Musicon](https://github.com/soohyeok/Practice/tree/master/Musicon)
 
