@@ -6,7 +6,7 @@
 - Instrument Store
 
 #### Images:
-![Musicon](Musicon1.png)
+![Musicon](img/Musicon1.png)
 ![Musicon](Musicon2.png)
 ![Musicon](Musicon3.png)
 
