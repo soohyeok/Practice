@@ -4,7 +4,7 @@
 
 #### Interactive Website:
 Please download the files and open the html;
-[![choredoor](choredoor.png)](https://s3.amazonaws.com/codecademy-content/projects/chore-door/chore-door-final/index.html)
+[![choredoor](img/choredoor.png)](https://s3.amazonaws.com/codecademy-content/projects/chore-door/chore-door-final/index.html)
 - *click on the image to be redirected to the interactive website*
 
 #### Description:
