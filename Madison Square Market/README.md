@@ -3,7 +3,7 @@
 # Madison Square Market
 
 #### Description:
-- Individual Menu Drop using JQUERY
+- Individual menu drop using jQuery
 
 #### Images:
 ![Madison](img/madison.png)
