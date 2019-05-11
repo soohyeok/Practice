@@ -6,7 +6,7 @@
 #### Interactive Website:
 Please download the files and open the html;
 
-![pianokeys](pianokeys.png)
+![pianokeys](img/pianokeys.png)
 #### Description:
 - Piano Keys highlight(change color) when pressed
 - The Next button allows one to see the next 8 measures of the music where there are 4 pages of 8 measures of music
