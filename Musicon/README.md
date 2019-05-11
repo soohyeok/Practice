@@ -7,8 +7,8 @@
 
 #### Images:
 ![Musicon](img/Musicon1.png)
-![Musicon](Musicon2.png)
-![Musicon](Musicon3.png)
+![Musicon](img/Musicon2.png)
+![Musicon](img/Musicon3.png)
 
 #### [Project Link](https://www.codecademy.com/paths/web-development/tracks/build-interactive-websites/modules/templating-with-handlebars/projects/musicon)
 
