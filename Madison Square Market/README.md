@@ -6,7 +6,7 @@
 - Individual Menu Drop using JQUERY
 
 #### Images:
-![Madison](img/Madison.png)
+![Madison](img/madison.png)
 
 
 #### Guided by [Codeacademy](http://ssqt.co/mQfdNdy)
