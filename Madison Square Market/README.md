@@ -3,6 +3,8 @@
 # Madison Square Market
 
 #### Description:
+- *Learn jQuery: Introduction*
+- Selecting individual elements and transforming
 - Individual menu drop using jQuery
 
 #### Images:
