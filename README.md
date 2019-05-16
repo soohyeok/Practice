@@ -19,7 +19,8 @@
 - Instrument Store
 - [to Musicon](https://github.com/soohyeok/Practice/tree/master/Musicon)
 #### Madison Square Market
-- Individual menu drop using jQuery
+- *Learn jQuery: Introduction*
+- Selecting individual elements and transforming
 - [to Madison Square Market](https://github.com/soohyeok/Practice/tree/master/Madison%20Square%20Market)
 #### Feedster
 - *Learn JQuery: Event Handlers*
