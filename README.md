@@ -30,7 +30,8 @@
 - [to Feedster](https://github.com/soohyeok/Practice/edit/master/Feedster)
 #### Web Safe Font Preview
 - *Learn jQuery: Style Methods*
-- jQuery style change with <select>&<option> in html
+- jQuery style change with select and option in html
+- $(event.currentTarget).val()
 - [to Web Safe Font Preview](https://github.com/soohyeok/Practice/tree/master/Web%20Safe%20Font%20Preview)
 
 ### Online Resources Used:
