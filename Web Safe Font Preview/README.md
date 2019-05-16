@@ -9,7 +9,7 @@
 - $(event.currentTarget).val()
 
 #### Images:
-![](img/websafe.png)
+![picture](img/websafe.png)
 
 
 #### Guided by [Codeacademy](http://ssqt.co/mQfdNdy)
