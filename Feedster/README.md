@@ -10,9 +10,9 @@
 - Menu drop/hide
 
 #### Images:
-![Feedster](img/Feedster1.png)
-![Feedster](img/Feedster2.png)
-![Feedster](img/Feedster3.png)
+![Feedster](img/feedster1.png)
+![Feedster](img/feedster2.png)
+![Feedster](img/feedster3.png)
 
 #### Guided by [Codeacademy](http://ssqt.co/mQfdNdy)
 #### [Back to 'Practice'](https://github.com/soohyeok/Practice)
