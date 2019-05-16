@@ -6,9 +6,10 @@
 #### Description:
 - *Learn jQuery: Style Methods*
 - jQuery style change with select and option in html
+- $(event.currentTarget).val()
 
 #### Images:
-![picture](img/websafe.png)
+![Web Safe](img/websafe.png)
 
 
 #### Guided by [Codeacademy](http://ssqt.co/mQfdNdy)
