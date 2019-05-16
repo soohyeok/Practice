@@ -5,7 +5,7 @@
 
 #### Description:
 - *Learn jQuery: Style Methods*
-- jQuery style change with <select>&<option> in html
+- jQuery style change with select and option in html
 
 #### Images:
 ![picture](img/websafe.png)
