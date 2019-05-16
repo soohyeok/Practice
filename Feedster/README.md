@@ -11,9 +11,12 @@
 
 #### Images:
 - index:
+
 ![Feedster](img/feedster1.png)
 - With menu:
+
 ![Feedster](img/feedster2.png)
+
 - With extra words:
 ![Feedster](img/feedster3.png)
 
