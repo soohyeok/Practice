@@ -21,6 +21,13 @@
 #### Madison Square Market
 - Individual menu drop using jQuery
 - [to Madison Square Market](https://github.com/soohyeok/Practice/tree/master/Madison%20Square%20Market)
+#### Feedster
+- *LEARN JQUERY: EVENT HANDLERS*
+- Practice with Chaining Events in jQuery
+- Button class adder/remover
+- Character Counter
+- Menu drop/hide
+- [to Feedster](https://github.com/soohyeok/Practice/edit/master/Feedster)
 
 ### Online Resources Used:
 - [Codeacademy](http://ssqt.co/mQfdNdy)
@@ -30,3 +37,4 @@
 - Description
 - [to Repo]()
 -->
+
