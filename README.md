@@ -31,7 +31,7 @@
 #### Web Safe Font Preview
 - *Learn jQuery: Style Methods*
 - jQuery style change with <select>&<option> in html
-- [to Repo]()
+- [to Web Safe Font Preview](https://github.com/soohyeok/Practice/tree/master/Web%20Safe%20Font%20Preview)
 
 ### Online Resources Used:
 - [Codeacademy](http://ssqt.co/mQfdNdy)
