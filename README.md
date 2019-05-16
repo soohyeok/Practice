@@ -28,6 +28,10 @@
 - Character Counter
 - Menu drop/hide
 - [to Feedster](https://github.com/soohyeok/Practice/edit/master/Feedster)
+#### Web Safe Font Preview
+- *Learn jQuery: Style Methods*
+- jQuery style change with <select>&<option> in html
+- [to Repo]()
 
 ### Online Resources Used:
 - [Codeacademy](http://ssqt.co/mQfdNdy)
