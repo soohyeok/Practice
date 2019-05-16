@@ -13,11 +13,13 @@
 - index:
 
 ![Feedster](img/feedster1.png)
+
 - With menu:
 
 ![Feedster](img/feedster2.png)
 
 - With extra words:
+
 ![Feedster](img/feedster3.png)
 
 #### Guided by [Codeacademy](http://ssqt.co/mQfdNdy)
