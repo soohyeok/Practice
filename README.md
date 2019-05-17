@@ -34,7 +34,10 @@
 - jQuery style change with select and option in html
 - $(event.currentTarget).val()
 - [to Web Safe Font Preview](https://github.com/soohyeok/Practice/tree/master/Web%20Safe%20Font%20Preview)
-
+#### Gameboard
+- Learn jQuery: Traversing The DOM
+- Use jQuery to toggle menus and submenus.
+- [to Gameboard](https://github.com/soohyeok/Practice/edit/master/Gameboard)
 ### Online Resources Used:
 - [Codeacademy](http://ssqt.co/mQfdNdy)
 
