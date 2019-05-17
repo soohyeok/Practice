@@ -38,6 +38,10 @@
 - Learn jQuery: Traversing The DOM
 - Use jQuery to toggle menus and submenus.
 - [to Gameboard](https://github.com/soohyeok/Practice/edit/master/Gameboard)
+#### Message Mixer
+- *Learn Javascript: Modules*
+- Using modules: exports/imports/require
+- [to Message Mixer](https://github.com/soohyeok/Practice/tree/master/Message%20Mixer)
 ### Online Resources Used:
 - [Codeacademy](http://ssqt.co/mQfdNdy)
 
