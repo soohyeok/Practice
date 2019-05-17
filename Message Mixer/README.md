@@ -3,7 +3,9 @@
 # Message Mixer
 
 #### Description:
-- Practice with Chaining Events in jQuery
+- Learn Javascript: Modules
+- Using modules: exports/imports/require
+
 - count the characters in a message
 - capitalize the first character of words
 - reverse a message’s words in place
