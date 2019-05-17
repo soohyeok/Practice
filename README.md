@@ -42,6 +42,11 @@
 - *Learn Javascript: Modules*
 - Using modules: exports/imports/require
 - [to Message Mixer](https://github.com/soohyeok/Practice/tree/master/Message%20Mixer)
+#### WorkAround
+- *Learn Javascript: Modules*
+- Using modules: export, export default, exporting functions as properties
+- [to WorkAround](https://github.com/soohyeok/Practice/tree/master/WorkAround)
+
 ### Online Resources Used:
 - [Codeacademy](http://ssqt.co/mQfdNdy)
 
