@@ -53,6 +53,10 @@
 - Console.Write/Read
 - string concatenation, interpolation
 - [to MadLibs](https://github.com/soohyeok/Practice/tree/master/MadLibs)
+#### MoneyMaker
+- *Learn C#*
+- Basic Coin Calculator: converting $ amount into # of coins
+- [to MoneyMaker](https://github.com/soohyeok/Practice/tree/master/MoneyMaker)
 
 ### Online Resources Used:
 - [Codeacademy](http://ssqt.co/mQfdNdy)
