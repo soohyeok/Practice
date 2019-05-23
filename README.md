@@ -46,6 +46,13 @@
 - *Learn Javascript: Modules*
 - Using modules: export, export default, exporting functions as properties
 - [to WorkAround](https://github.com/soohyeok/Practice/tree/master/WorkAround)
+#### MadLibs
+- *Learn C#*
+- Basic Madlibs
+- Basic Data Types
+- Console.Write/Read
+- string concatenation, interpolation
+- [to MadLibs](https://github.com/soohyeok/Practice/tree/master/MadLibs)
 
 ### Online Resources Used:
 - [Codeacademy](http://ssqt.co/mQfdNdy)
