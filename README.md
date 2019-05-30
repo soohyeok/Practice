@@ -57,6 +57,11 @@
 - *Learn C#*
 - Basic Coin Calculator: converting $ amount into # of coins
 - [to MoneyMaker](https://github.com/soohyeok/Practice/tree/master/MoneyMaker)
+#### Create A Table
+- *Learn SQL*
+- Creating Table
+- Basic Manipulation commands
+- [to Create A Table](https://github.com/soohyeok/Practice/tree/master/Create%20A%20Table)
 
 ### Online Resources Used:
 - [Codeacademy](http://ssqt.co/mQfdNdy)
