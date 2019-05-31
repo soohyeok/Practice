@@ -62,7 +62,6 @@
 - Creating Table
 - Basic Manipulation commands
 - [to Create A Table](https://github.com/soohyeok/Practice/tree/master/Create%20A%20Table)
-](https://github.com/soohyeok/Practice/tree/master/MoneyMaker)
 #### New York Restaurants
 - *Learn SQL: Query*
 - Query commands
