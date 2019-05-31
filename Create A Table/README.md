@@ -1,6 +1,6 @@
 #### LEARN SQL
 
-# Create A TAble
+# Create A Table
 
 #### Description:
 - *Learn SQL*
