@@ -66,6 +66,14 @@
 - *Learn SQL: Query*
 - Query commands
 - [to New York Restaurants](https://github.com/soohyeok/Practice/tree/master/New%20York%20Restaurants)
+#### Trends in Startups
+- *Learn SQL*
+- Queries with aggregate functions
+- [to Trends in Startups](https://github.com/soohyeok/Practice/tree/master/Trends%20in%20Startups)
+
+#### Guided by [Codeacademy](http://ssqt.co/mQfdNdy)
+#### [Back to 'Practice'](https://github.com/soohyeok/Practice)
+
 
 ### Online Resources Used:
 - [Codeacademy](http://ssqt.co/mQfdNdy)
