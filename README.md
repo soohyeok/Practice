@@ -3,7 +3,7 @@
 
 ## Projects:
 
-### C#
+### C# --- C# --- C# --- C# --- C# --- C# --- C# --- C# --- C# --- C# --- C# --- 
 #### MadLibs
 - *Learn C#*
 - Basic Madlibs
@@ -23,7 +23,7 @@
 - [to Employee](https://github.com/soohyeok/Practice/tree/master/Employee)
 
 
-### Javascript
+### Javascript --- Javascript --- Javascript --- Javascript --- Javascript --- Javascript --- 
 #### Lodash
 - *Javascript*
 - Recreating Lodash library as object methods with Javascript
@@ -70,7 +70,7 @@
 - [to WorkAround](https://github.com/soohyeok/Practice/tree/master/WorkAround)
 
 
-### SQL
+### SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- 
 #### Create A Table
 - *Learn SQL*
 - Creating Table
