@@ -2,6 +2,28 @@
 - Repo made to store personal portfolio of projects guided by online resources
 
 ## Projects:
+
+### C#
+#### MadLibs
+- *Learn C#*
+- Basic Madlibs
+- Basic Data Types
+- Console.Write/Read
+- string concatenation, interpolation
+- [to MadLibs](https://github.com/soohyeok/Practice/tree/master/MadLibs)
+#### MoneyMaker
+- *Learn C#*
+- Basic Coin Calculator: converting $ amount into # of coins
+- [to MoneyMaker](https://github.com/soohyeok/Practice/tree/master/MoneyMaker)
+### TicTacToe
+- C# Console TicTacToe
+- [to TicTacToe](https://github.com/soohyeok/Practice/tree/master/TicTacToe)
+### Employee
+- C# Inheritance Practice
+- [to Employee](https://github.com/soohyeok/Practice/tree/master/Employee)
+
+
+### Javascript
 #### Lodash
 - *Javascript*
 - Recreating Lodash library as object methods with Javascript
@@ -46,17 +68,9 @@
 - *Learn Javascript: Modules*
 - Using modules: export, export default, exporting functions as properties
 - [to WorkAround](https://github.com/soohyeok/Practice/tree/master/WorkAround)
-#### MadLibs
-- *Learn C#*
-- Basic Madlibs
-- Basic Data Types
-- Console.Write/Read
-- string concatenation, interpolation
-- [to MadLibs](https://github.com/soohyeok/Practice/tree/master/MadLibs)
-#### MoneyMaker
-- *Learn C#*
-- Basic Coin Calculator: converting $ amount into # of coins
-- [to MoneyMaker](https://github.com/soohyeok/Practice/tree/master/MoneyMaker)
+
+
+### SQL
 #### Create A Table
 - *Learn SQL*
 - Creating Table
@@ -70,14 +84,8 @@
 - *Learn SQL*
 - Queries with aggregate functions
 - [to Trends in Startups](https://github.com/soohyeok/Practice/tree/master/Trends%20in%20Startups)
-### TicTacToe
-- C# Console TicTacToe
-- [to TicTacToe](https://github.com/soohyeok/Practice/tree/master/TicTacToe)
-### Employee
-- C# Inheritance Practice
-- [to Employee](https://github.com/soohyeok/Practice/tree/master/Employee)
 
-#### [Back to 'Practice'](https://github.com/soohyeok/Practice)
+
 
 
 ### Online Resources Used:
