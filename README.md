@@ -71,9 +71,11 @@
 - Queries with aggregate functions
 - [to Trends in Startups](https://github.com/soohyeok/Practice/tree/master/Trends%20in%20Startups)
 ### TicTacToe
-- C#
-- TicTacToe
+- C# Console TicTacToe
 - [to TicTacToe](https://github.com/soohyeok/Practice/tree/master/TicTacToe)
+### Employees
+- C# Inheritance Practice
+- [to Employees](https://github.com/soohyeok/Practice/tree/master/Employees)
 
 #### [Back to 'Practice'](https://github.com/soohyeok/Practice)
 
