@@ -70,14 +70,17 @@
 - *Learn SQL*
 - Queries with aggregate functions
 - [to Trends in Startups](https://github.com/soohyeok/Practice/tree/master/Trends%20in%20Startups)
+### TicTacToe
+- C#
+- TicTacToe
+- [to TicTacToe](https://github.com/soohyeok/Practice/tree/master/TicTacToe)
 
-#### Guided by [Codeacademy](http://ssqt.co/mQfdNdy)
 #### [Back to 'Practice'](https://github.com/soohyeok/Practice)
 
 
 ### Online Resources Used:
 - [Codeacademy](http://ssqt.co/mQfdNdy)
-
+- [udemy](https://www.udemy.com)
 <!---
 #### Project Title
 - Description
