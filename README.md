@@ -75,7 +75,7 @@
 - [to TicTacToe](https://github.com/soohyeok/Practice/tree/master/TicTacToe)
 ### Employee
 - C# Inheritance Practice
-- [to Employees](https://github.com/soohyeok/Practice/tree/master/Employee)
+- [to Employee](https://github.com/soohyeok/Practice/tree/master/Employee)
 
 #### [Back to 'Practice'](https://github.com/soohyeok/Practice)
 
