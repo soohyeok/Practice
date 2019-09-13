@@ -68,10 +68,10 @@
 - *Learn Javascript: Modules*
 - Using modules: export, export default, exporting functions as properties
 - [to WorkAround](https://github.com/soohyeok/Practice/tree/master/WorkAround)
-#### WeatherApplication
+#### Weather Application
 - *OpenWeatherMap API call with Vanilla JS*
 - html, css, js; DOM navigation/control
-- [to WorkAround](https://github.com/soohyeok/Practice/tree/master/WeatherApplication)
+- [to Weather Application](https://github.com/soohyeok/Practice/tree/master/WeatherApplication)
 
 
 ### SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- 
