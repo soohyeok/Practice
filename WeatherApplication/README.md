@@ -12,7 +12,7 @@
 - download three .js files
 - go to https://openweathermap.org/
 - sign up (free) to get API Key
-- go into project.js file and paste in your API key
+- go into project.js file and paste in your API key (variable name is apiKey)
 
 #### Images:
 ![WeatherApplication](img/img.png)
