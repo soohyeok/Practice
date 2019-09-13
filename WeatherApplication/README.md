@@ -9,10 +9,11 @@
 - when town/city name is searched, the application returns city name, weather description and temperature
 
 ### Run Instructions
-- download three .js files
+- download all files (three .js files + 1 style.css file)
 - go to https://openweathermap.org/
 - sign up (free) to get API Key
 - go into project.js file and paste in your API key (variable name is apiKey)
+- open .html file in browser
 
 #### Images:
 ![WeatherApplication](img/img.png)
