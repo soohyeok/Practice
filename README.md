@@ -69,7 +69,7 @@
 - Using modules: export, export default, exporting functions as properties
 - [to WorkAround](https://github.com/soohyeok/Practice/tree/master/WorkAround)
 #### Weather Application
-- *OpenWeatherMap API call with Vanilla JS*
+- *OpenWeatherMap API call with Vanilla JS (ES5)*
 - html, css, js; DOM navigation/control
 - [to Weather Application](https://github.com/soohyeok/Practice/tree/master/WeatherApplication)
 
