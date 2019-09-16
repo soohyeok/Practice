@@ -1,4 +1,4 @@
-#### Vanilla JS with API call / DOM practice
+#### Vanilla JS (ES5) with API call / DOM practice
 
 # WeatherApplication
 
