@@ -72,6 +72,12 @@
 - *OpenWeatherMap API call with Vanilla JS (ES5)*
 - html, css, js; DOM navigation/control
 - [to Weather Application](https://github.com/soohyeok/Practice/tree/master/WeatherApplication)
+### ES6 Training
+- *Javascript ES6 Notes*
+- syntax changes, modules, classes, symbols, iterators & generators
+- promises, built-in obj extensions, maps & sets
+- reflect and proxy APIs
+- [to ES6 Training](https://github.com/soohyeok/Practice/tree/master/ES6%20Training)
 
 
 ### SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- 
