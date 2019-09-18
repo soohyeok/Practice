@@ -1,5 +1,5 @@
 # Practice Repo
-- Repo made to store personal portfolio of projects guided by online resources
+- Repo made to store random simple project files and notes
 
 ## Projects:
 
