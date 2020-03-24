@@ -1,5 +1,6 @@
 # Practice Repo
-- Repo made to store random simple project files and notes
+- Repo made to store random basic project files and notes
+- Simple syntax reviews & familiarizing with different tools
 
 ## Projects:
 
