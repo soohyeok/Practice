@@ -2,9 +2,8 @@
 - Repo made to store random basic project files and notes
 - Simple syntax reviews & familiarizing with different tools
 
-## Projects:
-
-### C# --- C# --- C# --- C# --- C# --- C# --- C# --- C# --- C# --- C# --- C# --- 
+# Projects:
+## C#
 #### MadLibs
 - *Learn C#*
 - Basic Madlibs
@@ -24,7 +23,7 @@
 - [to Employee](https://github.com/soohyeok/Practice/tree/master/Employee)
 
 
-### Javascript --- Javascript --- Javascript --- Javascript --- Javascript --- Javascript --- 
+## Javascript
 #### Lodash
 - *Javascript*
 - Recreating Lodash library as object methods with Javascript
@@ -81,7 +80,7 @@
 - [to ES6 Training](https://github.com/soohyeok/Practice/tree/master/ES6%20Training)
 
 
-### SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- SQL --- 
+## SQL
 #### Create A Table
 - *Learn SQL*
 - Creating Table
